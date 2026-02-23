@@ -42,9 +42,9 @@ const About = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-500 shrink-0 mt-1" />
                 <div>
-                  <h4 className="font-bold text-gray-900">
+                  <h3 className="font-bold text-gray-900">
                     Certifié et Expérimenté
-                  </h4>
+                  </h3>
                   <p className="text-gray-500">
                     {teacherData.about.certifications}
                   </p>
@@ -53,9 +53,9 @@ const About = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-500 shrink-0 mt-1" />
                 <div>
-                  <h4 className="font-bold text-gray-900">
+                  <h3 className="font-bold text-gray-900">
                     Méthode Personnalisée
-                  </h4>
+                  </h3>
                   <p className="text-gray-500">
                     Programme adapté à votre niveau et à vos objectifs.
                   </p>
@@ -64,9 +64,9 @@ const About = () => {
               <div className="flex items-start gap-3">
                 <CheckCircle className="text-green-500 shrink-0 mt-1" />
                 <div>
-                  <h4 className="font-bold text-gray-900">
+                  <h3 className="font-bold text-gray-900">
                     {teacherData.about.studentsCount}
-                  </h4>
+                  </h3>
                   <p className="text-gray-500">
                     La réussite de mes élèves est ma meilleure preuve.
                   </p>

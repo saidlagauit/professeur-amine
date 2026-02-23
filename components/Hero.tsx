@@ -50,7 +50,7 @@ const Hero = () => {
                   <GraduationCap size={24} />
                 </div>
                 <div>
-                  <h3 className="font-bold">Préparation TCF</h3>
+                  <p className="font-bold">Préparation TCF</p>
                   <p className="text-sm opacity-80">Score garanti</p>
                 </div>
               </div>
@@ -59,7 +59,7 @@ const Hero = () => {
                   <MessageCircle size={24} />
                 </div>
                 <div>
-                  <h3 className="font-bold">Communication</h3>
+                  <p className="font-bold">Communication</p>
                   <p className="text-sm opacity-80">Parler avec confiance</p>
                 </div>
               </div>
@@ -68,7 +68,7 @@ const Hero = () => {
                   <Briefcase size={24} />
                 </div>
                 <div>
-                  <h3 className="font-bold">Français Pro</h3>
+                  <p className="font-bold">Français Pro</p>
                   <p className="text-sm opacity-80">Pour le travail</p>
                 </div>
               </div>

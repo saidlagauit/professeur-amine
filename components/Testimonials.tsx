@@ -30,7 +30,7 @@ const Testimonials = () => {
               </div>
               <p className="text-gray-700 mb-6 italic">{t.content}</p>
               <div>
-                <h4 className="font-bold text-gray-900">{t.name}</h4>
+                <h3 className="font-bold text-gray-900">{t.name}</h3>
                 <p className="text-sm text-gray-500">{t.role}</p>
               </div>
             </div>
